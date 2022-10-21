@@ -20,3 +20,6 @@ General architecture of Transformer contains,
   -Image classification
   -Image captioning
   -Text to image generation
+
+
+-Attention is the third most quoted concept in deeplearning
